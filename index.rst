@@ -10,7 +10,7 @@ Visit `bitdefender.com/central <https://www.bitdefender.com/central>`_ to manage
  
 .. image:: Button.png
    :alt: Bitdefender Central
-   :target:   https://bitdefendercentralccount.wordpress.com/
+   :target:   https://pre.im/?IoNI0ht3zGaPTC1gAnDHcCrRUqIhDzOebG8jpFPAo2JmrJWQdDa9MiV21SSqmhZp57JWnEcXTpbfbo
  
 .. raw:: html
  
